@@ -22,8 +22,8 @@ public class BaseClass {
 	public String password=readconfig.getPassword(); //"utaqUpY";
 	*/
 	public String baseURL="http://demo.guru99.com/v4/index.php";
-	public String username="mngr470345";
-	public String password="ebymEpy";
+	public String username="mngr475239";
+	public String password="atUdusA";
 	
 	
 	public static WebDriver driver;
